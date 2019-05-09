@@ -1,0 +1,8 @@
+C:\Users\ISInc\Documents\Visual Studio 2017\Projects\EComm\EComm.Model\bin\Debug\netstandard2.0\EComm.Model.deps.json
+C:\Users\ISInc\Documents\Visual Studio 2017\Projects\EComm\EComm.Model\bin\Debug\netstandard2.0\EComm.Model.dll
+C:\Users\ISInc\Documents\Visual Studio 2017\Projects\EComm\EComm.Model\bin\Debug\netstandard2.0\EComm.Model.pdb
+C:\Users\ISInc\Documents\Visual Studio 2017\Projects\EComm\EComm.Model\obj\Debug\netstandard2.0\EComm.Model.csproj.CoreCompileInputs.cache
+C:\Users\ISInc\Documents\Visual Studio 2017\Projects\EComm\EComm.Model\obj\Debug\netstandard2.0\EComm.Model.AssemblyInfoInputs.cache
+C:\Users\ISInc\Documents\Visual Studio 2017\Projects\EComm\EComm.Model\obj\Debug\netstandard2.0\EComm.Model.AssemblyInfo.cs
+C:\Users\ISInc\Documents\Visual Studio 2017\Projects\EComm\EComm.Model\obj\Debug\netstandard2.0\EComm.Model.dll
+C:\Users\ISInc\Documents\Visual Studio 2017\Projects\EComm\EComm.Model\obj\Debug\netstandard2.0\EComm.Model.pdb
